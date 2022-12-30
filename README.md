@@ -1,11 +1,12 @@
 # Foodies😋
 Fully responsive food ordering application which redirect to the respective pages
 # Technical Outline 📕
-❶ Splash screen page\
-❷ Home page\
-❸ Restaurant page\
-❹ Cart page\
-❺  Order Successful page
+❶ email verification\
+❷ Splash screen page\
+❸ Home page\
+❺ Restaurant page\
+❻ Cart page\
+❼ Order Successful page
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/188906887-fd27c59b-c245-4e95-8cf6-f9ad444ab95e.mp4
 # Screenshots
