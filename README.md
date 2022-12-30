@@ -1,5 +1,5 @@
 # Foodies😋
-Fully responsive food ordering application with email verification which uses razorpay payment gateway
+Fully responsive food ordering application with email verification which also uses razorpay payment gateway
 # Technical Outline 📕
 ❶ email verification\
 ❷ Splash screen page\
