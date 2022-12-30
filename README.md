@@ -7,7 +7,8 @@ Fully responsive food ordering application which redirect to the respective page
 ❹ fav Restaurant page\
 ❺ Restaurant page\
 ❻ Cart page\
-❼ Order Successful page
+❼ paypent page using razorpay\
+❽ Order Successful page
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/188906887-fd27c59b-c245-4e95-8cf6-f9ad444ab95e.mp4
 # Screenshots
