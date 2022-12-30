@@ -4,6 +4,7 @@ Fully responsive food ordering application which redirect to the respective page
 ❶ email verification\
 ❷ Splash screen page\
 ❸ Home page\
+❹ fav Restaurant page\ 
 ❺ Restaurant page\
 ❻ Cart page\
 ❼ Order Successful page
